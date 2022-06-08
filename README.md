@@ -1,0 +1,2 @@
+# ProgramacionGrafica
+Este proyecto se creo con el fin, de promover el comercio de los negocios de rosquillas(maíz), consiste en una aplicación móvil, que funciona a través de pedidos de diferentes tipos de rosquillas y algunos otros productos 100% nicaragüenses, este proyecto tiene como objetivo principal promover la cultura y gastronomía nacional. Apostando por las pequeñas y medianas empresas que se dedican a esta parte del comercio gastronómico, la aplicación se presentará como proyecto final en la clase de programación gráfica.
